@@ -163,9 +163,12 @@ special instructions.
   attempt to provide them.
 </p>
 
-<p>
-	<strong>Registration will open soon.</strong> Please check back or contact us through the link below.
-</p>
+<h2>Registration</h2>
+<p>Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/swc_mit">https://libcal.mit.edu/calendar/events/swc_mit</a>.
+
+You are expected to attend the workshop on both days. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you! 
+
+If you have any questions, please contact us through the email listed below.
 
 {% comment %}
 CONTACT EMAIL ADDRESS
