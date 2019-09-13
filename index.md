@@ -163,6 +163,10 @@ special instructions.
   attempt to provide them.
 </p>
 
+<p>
+	<strong>Registration will open soon.</strong> Please check back or contact us through the link below.
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
