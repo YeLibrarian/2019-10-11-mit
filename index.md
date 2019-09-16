@@ -166,7 +166,9 @@ special instructions.
 <h2>Registration</h2>
 <p>Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/swc_mit">https://libcal.mit.edu/calendar/events/swc_mit</a>.
 </p>
-
+<p>
+Coffee / tea and light refreshement will be provided.
+</p>
 <p>
 You are expected to attend the workshop on both days. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!
 
